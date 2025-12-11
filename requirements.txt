@@ -1,0 +1,7 @@
+customtkinter==5.2.2
+monitorcontrol==4.1.1
+screeninfo==0.8.1
+screen-brightness-control==0.24.3
+pywin32==311
+pyinstaller==6.11.1
+pyedid
